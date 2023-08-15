@@ -30,15 +30,10 @@ This project is a simple image editor built using HTML, CSS, and JavaScript. It 
 - [Boxicons](https://boxicons.com/): Used for icons in the UI.
 - [Font Awesome](https://fontawesome.com/): Used for icons in the UI.
 
-<div align="center">
-  <p>Enjoy editing images with this simple and intuitive image editor!</p>
-  <img src="preview.png" alt="Project Preview" width="70%">
-</div>
-
 
 ---
 
 <div align="center">
   <p>Enjoy editing images with this simple and intuitive image editor!</p>
-  <img src="preview.png" alt="Project Preview" width="70%">
+  <img src="preview.PNG" alt="Project Preview" width="70%">
 </div>
